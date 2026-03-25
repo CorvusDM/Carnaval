@@ -4,4 +4,6 @@ public class DisfrazGala {
 
     String nombre;
 
+    String nombreComparsa;
+
 }
