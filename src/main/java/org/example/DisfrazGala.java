@@ -1,6 +1,6 @@
 package org.example;
 
-public class Disfraz {
+public class DisfrazGala {
 
     String nombre;
 
